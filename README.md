@@ -10,10 +10,10 @@
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on **CalmBot – An AI-driven CBT Mobile App**
 - 🌱 Currently exploring **Angular.js, Python, AI Automation, Chatbot Integration**
-- 👨‍💻 Check out my work: [Portfolio Website](https://hasn-portfolio.netlify.app/)
+- 👨‍💻 Check out my work: [Portfolio Website](https://www.has-nain.dev/)
 - 💬 Ask me about **React, TypeScript, GSAP**
 - 📫 Reach me at **hasnainaftab87@gmail.com**
-- 📄 My Resume: [View Here](https://drive.google.com/file/d/1WwpaXRZhRuyD90SvTaKNJ8Sj7j0-eJGQ/view?usp=sharing)
+- 📄 My Resume: [View Here](https://drive.google.com/file/d/1yE0F8ep4gaQneJZYzSBNm8Fx3tCA-025/view?usp=sharing)
 
 ---
 
