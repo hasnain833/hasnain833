@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hasnain</h1>
-<h3 align="center">🚀 Full Stack Developer | AI Enthusiast | Tech Explorer</h3>
+<h1 align="center">Hi, I'm Hasnain</h1>
+<h3 align="center">🚀 Full Stack Developer | AI Automation | Tech Explorer</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
@@ -7,13 +7,10 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 I’m currently working on **CalmBot – An AI-driven CBT Mobile App**
-- 🌱 Currently exploring **Angular.js, Python, AI Automation, Chatbot Integration**
-- 👨‍💻 Check out my work: [Portfolio Website](https://www.has-nain.dev/)
-- 💬 Ask me about **React, TypeScript, GSAP**
-- 📫 Reach me at **hasnainaftab87@gmail.com**
-- 📄 My Resume: [View Here](https://drive.google.com/file/d/1yE0F8ep4gaQneJZYzSBNm8Fx3tCA-025/view?usp=sharing)
+### 👨‍💻 Contact Me
+- 🌐 Check out my work: [Portfolio](https://www.has-nain.dev/)
+- 📩 Reach me at **contact@has-nain.dev**
+- 📄 My Resume: [View Here](https://drive.google.com/file/d/16MalOdHPgF3wcl1Rajzn-u146PQxD7v_/view?usp=sharing)
 
 ---
 
@@ -31,14 +28,14 @@
 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,typescript,js,html,css,tailwind,redux,bootstrap,laravel,php,java,cpp,mongodb,mysql,postgres,firebase,docker,graphql,postman,flutter,git,androidstudio,cypress" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,typescript,js,html,css,tailwind,redux,bootstrap,laravel,php,java,cpp,mongodb,mysql,postgres,firebase,docker,graphql,postman,flutter,git,androidstudio,cypress,aws,python,stripe,paypal" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasnain833&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="160px"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=hasnain833&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="160px"/> -->
   <img src="https://nirzak-streak-stats.vercel.app/?user=hasnain833&theme=dark&hide_border=false" height="160px"/>
 </p>
 
@@ -47,16 +44,4 @@
 </p>
 
 ---
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hasnain833&theme=onedark&no-frame=true&no-bg=true&margin-w=5" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=hasnain833&icon=0&color=0" />
-</p>
-
 <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
