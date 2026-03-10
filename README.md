@@ -10,7 +10,7 @@
 ### 👨‍💻 Contact Me
 - 🌐 Check out my work: [Portfolio](https://www.has-nain.dev/)
 - 📩 Reach me at **contact@has-nain.dev**
-- 📄 My Resume: [View Here](https://drive.google.com/file/d/16MalOdHPgF3wcl1Rajzn-u146PQxD7v_/view?usp=sharing)
+- 📄 My Resume: [View Here](https://drive.google.com/file/d/1TTwI3POetGVyDOfxTZbhgQts95-KFb8b/view?usp=sharing)
 
 ---
 
