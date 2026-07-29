@@ -9,12 +9,11 @@
 
 ### 🚀 About Me
 
-- 💼 Full Stack Web Developer at **BitzSol, Islamabad** — shipped 10+ production apps
-- 🤖 Built AI-powered applications using **LangChain, OpenAI API, RAG pipelines, FAISS & Chroma**
-- 🌍 Delivered projects for international clients across **3 countries** via freelancing
-- 📱 Also building cross-platform mobile apps with **React Native** at BitzSol
-- 🎓 BS Information Technology — **NUML Islamabad** (Feb 2026)
-- 🔭 Currently building: **Turo** (vehicle rental platform) & **Pocket Pinky** (AI dating coach)
+- 💼 Full Stack Web Developer at **BitzSol, Islamabad** (Aug 2025 – Present) — shipped 10+ production-grade apps with React, Next.js, Node.js & MongoDB
+- 🌍 Freelance Full Stack Developer since **Jul 2023** — 10+ full-stack solutions delivered for international clients across 3 countries, 100% client satisfaction
+- 🤖 Hands-on with **Claude API, OpenAI API, LangChain, RAG pipelines, pgvector & FAISS** — building production-ready AI features, not just prototypes
+- 🎨 Started out as a Frontend Developer at **CafeVista** (Jan 2022 – Jul 2023), owning frontend architecture and reusable component libraries
+- 🎓 BS Information Technology — **NUML Islamabad** (Feb 2022 – Feb 2026)
 
 ---
 
@@ -37,14 +36,27 @@
 
 ---
 
+### 💼 Experience
+
+| Role | Company | Duration |
+|---|---|---|
+| Full Stack Web Developer | BitzSol, Islamabad | Aug 2025 – Present |
+| Full Stack Developer (Freelance) | Remote / Self-Employed | Jul 2023 – Present |
+| Frontend Developer | CafeVista, Islamabad | Jan 2022 – Jul 2023 |
+
+---
+
 ### 🏗️ Featured Projects
 
 | Project | Stack | Description |
 |---|---|---|
-| 🛒 Habibi Market| MERN, Tailwind, JWT, Stripe | E-commerce platform with 400+ listings, real-time chat & payments |
+| 🏠 AI4Home Warranty Care Portal | Next.js, Express, Prisma, PostgreSQL, Claude API, pgvector | Multi-tenant SaaS for home builders with Supabase Auth, AI sales agents, semantic search, Salesforce/Google Calendar/Twilio integrations |
+| 🛒 Habibi Market | MERN, Tailwind, JWT, Stripe | E-commerce platform with 400+ listings, real-time chat & payments |
 | 🚗 Turo | Next.js, Node.js, MongoDB | Full-stack vehicle rental app — car, airplane & boat bookings |
 | 🤖 CalmBot | Python, LangChain, OpenAI, FAISS | AI-powered CBT therapy app with RAG pipeline & mood tracking |
-| 🔐 AI Security Suite | Python, LangChain, Chroma, FAISS | RAG-based malware & phishing detection systems |
+| 🔐 AI Security Suite | Python, LangChain, Chroma, FAISS, Splunk | RAG-based malware & phishing detection middleware for Splunk |
+| 📈 EnrichFlow | Next.js, Supabase, Prisma, n8n | Dashboard automating Apollo-based contact enrichment across multiple data providers |
+| 💊 MediTrack (DChemist) | C#, .NET, WPF | Desktop pharmacy/chemist management system with an auto-updater module |
 | 💝 Pocket Pinky | React Native, Node.js | AI dating coach app with conversational UI |
 
 ---
@@ -58,7 +70,7 @@
 
 **Backend & AI**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,php,laravel,graphql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,php,laravel,graphql,dotnet" />
 </p>
 
 **Databases & Tools**
@@ -70,6 +82,20 @@
 <p>
   <img src="https://skillicons.dev/icons?i=react,flutter,androidstudio" />
 </p>
+
+---
+
+### 📜 Certifications
+
+- React.js — Udemy
+- JavaScript Algorithms & Data Structures — freeCodeCamp
+- MERN Stack Development — Coursera
+
+---
+
+### 🗣️ Languages
+
+English · Urdu · Punjabi
 
 ---
 
@@ -85,6 +111,7 @@
 ---
 
 ### 📄 Resume
+
 - 🌐 Portfolio: [has-nain.dev](https://has-nain.dev)
 - 📩 Email: contact@has-nain.dev
-- 📄 Resume: [View Here](https://drive.google.com/file/d/1TTwI3POetGVyDOfxTZbhgQts95-KFb8b/view?usp=sharing)
+- 📄 Resume: [View Here](https://drive.google.com/file/d/1zFBu6dBeViZLXLwkBzL0Ts6-hl_sC0An/view?usp=sharing)
