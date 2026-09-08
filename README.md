@@ -114,4 +114,4 @@ English · Urdu · Punjabi
 
 - 🌐 Portfolio: [has-nain.dev](https://has-nain.dev)
 - 📩 Email: contact@has-nain.dev
-- 📄 Resume: [View Here](https://drive.google.com/file/d/1zFBu6dBeViZLXLwkBzL0Ts6-hl_sC0An/view?usp=sharing)
+- 📄 Resume: [View Here](https://drive.google.com/file/d/1nRNyTThlNpX6LQX5nNEKfYHSsv71wsxT/view?usp=sharing)
