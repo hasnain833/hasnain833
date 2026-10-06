@@ -1,74 +1,60 @@
 <div align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/city-dark.svg"><img src="./assets/city-light.svg" width="100%" alt="Hasnain Aftab — GitHub contributions over the last year as an animated isometric city"></picture>
 
-<h3><code>hasnain@github ~ $ whoami</code></h3>
-
-<table>
-  <tr>
-    <td valign="top"><img src="./hasnain-ascii.svg" width="370" alt="ASCII portrait of Hasnain" /></td>
-    <td valign="top"><img src="./info-card.svg" width="490" alt="Hasnain Aftab — Full Stack Engineer, AI Integration. Now at BitzSol; freelance for clients in 3 countries." /></td>
-  </tr>
-</table>
-
-<a href="https://has-nain.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://linkedin.com/in/hasnainaftab"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:contact@has-nain.dev"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://drive.google.com/file/d/1nRNyTThlNpX6LQX5nNEKfYHSsv71wsxT/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-238636?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
-
+<b>Full stack engineer</b> building production web apps with Next.js and Node.js, and wiring LLMs into them — Claude, OpenAI, LangChain and RAG.<br>Full Stack Web Developer at BitzSol, Islamabad · freelancing for clients in 3 countries.
 </div>
 
 <br>
+<h3><code>hasnain@city ~ $ whoami</code></h3>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/portrait-dark.svg"><img src="./assets/portrait-light.svg" width="42.5%" alt="ASCII portrait of Hasnain Aftab"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark.svg"><img src="./assets/card-light.svg" width="56.5%" alt="Neofetch-style card: Full Stack Engineer at BitzSol, AI integration, freelance for clients in 3 countries, 10+ production apps"></picture></p>
 
-<h3><code>hasnain@github ~ $ ls ./projects</code></h3>
-
-| Project | Stack | What it does |
-|---|---|---|
-| 🏠 **[AI4Home Warranty Portal](https://github.com/hasnain833/ai4home-portal)** | Next.js · Express · Prisma · PostgreSQL · Claude API · pgvector | Multi-tenant SaaS for home builders — AI sales agents, semantic search, Salesforce / Google Calendar / Twilio integrations |
-| 🔐 **[AI Security Suite](https://github.com/hasnain833/Splunk_middleware)** | Python · LangChain · Chroma · FAISS · Splunk | RAG-based malware & phishing detection middleware for Splunk |
-| 📈 **[EnrichFlow](https://github.com/hasnain833/cesarEnrichFlow)** | Next.js · Supabase · Prisma · n8n | Automates Apollo-based contact enrichment across multiple data providers |
-| 💝 **[Pocket Pinky](https://github.com/hasnain833/pocketpinky)** | React Native · Node.js | AI dating coach with a conversational UI |
-| 🛒 **Habibi Market** | MERN · Tailwind · JWT · Stripe | E-commerce platform — 400+ listings, real-time chat, payments |
-| 🚗 **Turo** | Next.js · Node.js · MongoDB | Vehicle rental platform — car, airplane & boat bookings |
-| 🤖 **CalmBot** | Python · LangChain · OpenAI · FAISS | CBT therapy assistant with a RAG pipeline & mood tracking |
-| 💊 **[MediTrack](https://github.com/hasnain833/MediTrack_DotNet)** | C# · .NET · WPF | Desktop pharmacy management system with an auto-updater |
+<h3><code>hasnain@city ~ $ ./contact.sh</code></h3>
+<p align="center">
+<a href="https://has-nain.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/contact-portfolio-dark.svg"><img src="./assets/contact-portfolio-light.svg" width="24%" alt="portfolio: has-nain.dev"></picture></a>
+<a href="https://linkedin.com/in/hasnainaftab"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/contact-linkedin-dark.svg"><img src="./assets/contact-linkedin-light.svg" width="24%" alt="linkedin: in/hasnainaftab"></picture></a>
+<a href="mailto:contact@has-nain.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/contact-email-dark.svg"><img src="./assets/contact-email-light.svg" width="24%" alt="email: contact@has-nain.dev"></picture></a>
+<a href="https://drive.google.com/file/d/1nRNyTThlNpX6LQX5nNEKfYHSsv71wsxT/view?usp=sharing"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/contact-resume-dark.svg"><img src="./assets/contact-resume-light.svg" width="24%" alt="resume: view pdf"></picture></a>
+</p>
 
 <br>
 
-<h3><code>hasnain@github ~ $ cat stack.txt</code></h3>
-
-**Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux,html,css,js" alt="React, Next.js, TypeScript, Tailwind, Redux, HTML, CSS, JavaScript" />
+<h3><code>hasnain@city ~ $ ls ./projects</code></h3>
+<p align="center">
+<a href="https://github.com/hasnain833/ai4home-portal"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-ai4home-dark.svg"><img src="./assets/project-ai4home-light.svg" width="49%" alt="AI4Home Warranty Portal: Multi-tenant SaaS for home builders with AI sales agents, semantic search and CRM integrations. Built with Next.js · Prisma · PostgreSQL · Claude · pgvector."></picture></a>
+<a href="https://github.com/hasnain833/Splunk_middleware"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-security-dark.svg"><img src="./assets/project-security-light.svg" width="49%" alt="AI Security Suite: RAG-based malware and phishing detection middleware that plugs into Splunk. Built with Python · LangChain · Chroma · FAISS · Splunk."></picture></a>
+<a href="https://github.com/hasnain833/cesarEnrichFlow"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-enrichflow-dark.svg"><img src="./assets/project-enrichflow-light.svg" width="49%" alt="EnrichFlow: Dashboard automating Apollo-based contact enrichment across multiple data providers. Built with Next.js · Supabase · Prisma · n8n."></picture></a>
+<a href="https://github.com/hasnain833/pocketpinky"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-pocketpinky-dark.svg"><img src="./assets/project-pocketpinky-light.svg" width="49%" alt="Pocket Pinky: AI dating coach app with a conversational UI. Built with React Native · Node.js."></picture></a>
+<a href="https://has-nain.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-habibi-dark.svg"><img src="./assets/project-habibi-light.svg" width="49%" alt="Habibi Market: E-commerce platform with 400+ listings, real-time chat and payments. Built with MERN · Tailwind · JWT · Stripe."></picture></a>
+<a href="https://has-nain.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-turo-dark.svg"><img src="./assets/project-turo-light.svg" width="49%" alt="Turo: Vehicle rental platform for car, airplane and boat bookings. Built with Next.js · Node.js · MongoDB."></picture></a>
+<a href="https://has-nain.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-calmbot-dark.svg"><img src="./assets/project-calmbot-light.svg" width="49%" alt="CalmBot: CBT therapy assistant with a RAG pipeline and mood tracking. Built with Python · LangChain · OpenAI · FAISS."></picture></a>
+<a href="https://github.com/hasnain833/MediTrack_DotNet"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-meditrack-dark.svg"><img src="./assets/project-meditrack-light.svg" width="49%" alt="MediTrack: Desktop pharmacy management system with an auto-updater module. Built with C# · .NET · WPF."></picture></a>
 </p>
 
-**Backend**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,php,laravel,graphql,dotnet" alt="Node.js, Express, Python, PHP, Laravel, GraphQL, .NET" />
-</p>
+<br>
 
-**Databases & Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,prisma,supabase,docker,aws,git,postman" alt="MongoDB, PostgreSQL, MySQL, Prisma, Supabase, Docker, AWS, Git, Postman" />
-</p>
+<h3><code>hasnain@city ~ $ cat stack.txt</code></h3>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg"><img src="./assets/stack-light.svg" width="100%" alt="Tech stack — frontend: React, Next.js, TypeScript, Tailwind, Redux, HTML, CSS, JavaScript; backend: Node.js, Express, Python, PHP, Laravel, GraphQL, .NET; data · tools: MongoDB, PostgreSQL, MySQL, Prisma, Supabase, Docker, AWS, Git, Postman; mobile: React Native, Flutter, Android Studio; ai · llm: Claude API, OpenAI API, LangChain, RAG pipelines, pgvector, FAISS, Chroma"></picture></p>
 
-**Mobile**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,flutter,androidstudio" alt="React Native, Flutter, Android Studio" />
-</p>
+<br>
 
-**AI / LLM:** Claude API · OpenAI API · LangChain · RAG pipelines · pgvector · FAISS · Chroma
+<h3><code>hasnain@city ~ $ history</code></h3>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/history-dark.svg"><img src="./assets/history-light.svg" width="100%" alt="Career — CafeVista (Frontend Developer), 2022; Freelance (Full stack · clients in 3 countries), 2023; BitzSol (Full Stack Web Developer), 2025; NUML Islamabad (BS Information Technology), 2026"></picture></p>
 
 <details>
-<summary><b>Experience, education & certifications</b></summary>
+<summary><b>Certifications and languages</b></summary>
 <br>
 
-| Role | Company | Duration |
-|---|---|---|
-| Full Stack Web Developer | BitzSol, Islamabad | Aug 2025 – Present |
-| Full Stack Developer (Freelance) | Remote — clients in 3 countries | Jul 2023 – Present |
-| Frontend Developer | CafeVista, Islamabad | Jan 2022 – Jul 2023 |
-
-**Education:** BS Information Technology — NUML Islamabad (2022 – 2026)
-**Certifications:** React.js (Udemy) · JavaScript Algorithms & Data Structures (freeCodeCamp) · MERN Stack Development (Coursera)
+**Certifications:** React.js (Udemy) · JavaScript Algorithms and Data Structures (freeCodeCamp) · MERN Stack Development (Coursera)<br>
 **Languages:** English · Urdu · Punjabi
 
 </details>
+
+<br>
+
+<div align="center">
+
+<code>hasnain@city ~ $ exit</code><br>
+<sub>Open to onsite roles in Islamabad, Rawalpindi, Lahore and Karachi · <a href="mailto:contact@has-nain.dev">contact@has-nain.dev</a> · the city above rebuilds itself every day from my real contributions</sub>
+
+</div>
