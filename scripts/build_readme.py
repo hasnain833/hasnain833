@@ -14,7 +14,7 @@ def pic(name: str, alt: str, width: str) -> str:
 
 
 def prompt(cmd: str) -> str:
-    return f"<h3><code>hasnain@city ~ $ {cmd}</code></h3>"
+    return f"<h3><code>hasnain@github ~ $ {cmd}</code></h3>"
 
 
 def main():
@@ -57,7 +57,7 @@ def main():
              "MERN Stack Development (Coursera)<br>\n"
              "**Languages:** English · Urdu · Punjabi\n\n</details>\n\n<br>\n\n")
 
-    p.append('<div align="center">\n\n<code>hasnain@city ~ $ exit</code><br>\n'
+    p.append('<div align="center">\n\n<code>hasnain@github ~ $ exit</code><br>\n'
              "<sub>Open to onsite roles in Islamabad, Rawalpindi, Lahore and Karachi · "
              '<a href="mailto:contact@has-nain.dev">contact@has-nain.dev</a> · '
              "the city above rebuilds itself every day from my real contributions</sub>\n\n</div>\n")

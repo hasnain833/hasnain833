@@ -14,7 +14,7 @@ from theme import FONT_MONO, THEMES
 
 STATIC = os.environ.get("STATIC") == "1"
 
-USER, HOST = "hasnain", "city"
+USER, HOST = "hasnain", "github"
 ROWS = [
     ("Role",      "Full Stack Engineer · AI Integration"),
     ("Now",       "Full Stack Web Developer @ BitzSol"),

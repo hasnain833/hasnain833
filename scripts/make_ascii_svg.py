@@ -97,7 +97,7 @@ def build(lines: list[str], t: dict) -> str:
         f'<circle cx="50" cy="15" r="5" fill="{t["accent"]}"/>',
         f'<text x="{W / 2}" y="19" text-anchor="middle" fill="{t["muted"]}" '
         'font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11">'
-        "hasnain@city: ~/portrait</text>",
+        "hasnain@github: ~/portrait</text>",
         f'<g fill="{t["body"]}" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,\'Courier New\',monospace" '
         f'font-size="{font_size:.2f}" xml:space="preserve">',
     ]

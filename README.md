@@ -5,11 +5,11 @@
 </div>
 
 <br>
-<h3><code>hasnain@city ~ $ whoami</code></h3>
+<h3><code>hasnain@github ~ $ whoami</code></h3>
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/portrait-dark.svg"><img src="./assets/portrait-light.svg" width="42.5%" alt="ASCII portrait of Hasnain Aftab"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark.svg"><img src="./assets/card-light.svg" width="56.5%" alt="Neofetch-style card: Full Stack Engineer at BitzSol, AI integration, freelance for clients in 3 countries, 10+ production apps"></picture></p>
 
-<h3><code>hasnain@city ~ $ ./contact.sh</code></h3>
+<h3><code>hasnain@github ~ $ ./contact.sh</code></h3>
 <p align="center">
 <a href="https://has-nain.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/contact-portfolio-dark.svg"><img src="./assets/contact-portfolio-light.svg" width="24%" alt="portfolio: has-nain.dev"></picture></a>
 <a href="https://linkedin.com/in/hasnainaftab"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/contact-linkedin-dark.svg"><img src="./assets/contact-linkedin-light.svg" width="24%" alt="linkedin: in/hasnainaftab"></picture></a>
@@ -19,7 +19,7 @@
 
 <br>
 
-<h3><code>hasnain@city ~ $ ls ./projects</code></h3>
+<h3><code>hasnain@github ~ $ ls ./projects</code></h3>
 <p align="center">
 <a href="https://github.com/hasnain833/ai4home-portal"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-ai4home-dark.svg"><img src="./assets/project-ai4home-light.svg" width="49%" alt="AI4Home Warranty Portal: Multi-tenant SaaS for home builders with AI sales agents, semantic search and CRM integrations. Built with Next.js · Prisma · PostgreSQL · Claude · pgvector."></picture></a>
 <a href="https://github.com/hasnain833/Splunk_middleware"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-security-dark.svg"><img src="./assets/project-security-light.svg" width="49%" alt="AI Security Suite: RAG-based malware and phishing detection middleware that plugs into Splunk. Built with Python · LangChain · Chroma · FAISS · Splunk."></picture></a>
@@ -33,12 +33,12 @@
 
 <br>
 
-<h3><code>hasnain@city ~ $ cat stack.txt</code></h3>
+<h3><code>hasnain@github ~ $ cat stack.txt</code></h3>
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg"><img src="./assets/stack-light.svg" width="100%" alt="Tech stack — frontend: React, Next.js, TypeScript, Tailwind, Redux, HTML, CSS, JavaScript; backend: Node.js, Express, Python, PHP, Laravel, GraphQL, .NET; data · tools: MongoDB, PostgreSQL, MySQL, Prisma, Supabase, Docker, AWS, Git, Postman; mobile: React Native, Flutter, Android Studio; ai · llm: Claude API, OpenAI API, LangChain, RAG pipelines, pgvector, FAISS, Chroma"></picture></p>
 
 <br>
 
-<h3><code>hasnain@city ~ $ history</code></h3>
+<h3><code>hasnain@github ~ $ history</code></h3>
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/history-dark.svg"><img src="./assets/history-light.svg" width="100%" alt="Career — CafeVista (Frontend Developer), 2022; Freelance (Full stack · clients in 3 countries), 2023; BitzSol (Full Stack Web Developer), 2025; NUML Islamabad (BS Information Technology), 2026"></picture></p>
 
 <details>
@@ -54,7 +54,7 @@
 
 <div align="center">
 
-<code>hasnain@city ~ $ exit</code><br>
+<code>hasnain@github ~ $ exit</code><br>
 <sub>Open to onsite roles in Islamabad, Rawalpindi, Lahore and Karachi · <a href="mailto:contact@has-nain.dev">contact@has-nain.dev</a> · the city above rebuilds itself every day from my real contributions</sub>
 
 </div>

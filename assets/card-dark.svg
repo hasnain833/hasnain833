@@ -5,8 +5,8 @@
 <circle cx="18" cy="15" r="5" fill="#30363d"/>
 <circle cx="34" cy="15" r="5" fill="#30363d"/>
 <circle cx="50" cy="15" r="5" fill="#3fb950"/>
-<text x="245.0" y="19" text-anchor="middle" class="d" style="font-size:11px">hasnain@city: ~ — neofetch</text>
-<g class="ln" style="animation-delay:0.40s"><text x="20" y="57"><tspan class="g" font-weight="700">hasnain</tspan><tspan class="d">@</tspan><tspan class="g" font-weight="700">city</tspan></text></g>
+<text x="245.0" y="19" text-anchor="middle" class="d" style="font-size:11px">hasnain@github: ~ — neofetch</text>
+<g class="ln" style="animation-delay:0.40s"><text x="20" y="57"><tspan class="g" font-weight="700">hasnain</tspan><tspan class="d">@</tspan><tspan class="g" font-weight="700">github</tspan></text></g>
 <g class="ln" style="animation-delay:0.52s"><text x="20" y="76" class="d">────────────────────</text></g>
 <g class="ln" style="animation-delay:0.64s"><text x="20" y="95" class="k">Role</text><text x="112" y="95" class="v">Full Stack Engineer · AI Integration</text></g>
 <g class="ln" style="animation-delay:0.76s"><text x="20" y="114" class="k">Now</text><text x="112" y="114" class="g">Full Stack Web Developer @ BitzSol</text></g>
