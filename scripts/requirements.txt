@@ -1,0 +1,8 @@
+# Daily workflow (city only)
+requests
+# Only needed locally when you change the photo (portrait)
+pillow
+numpy
+opencv-python
+rembg
+onnxruntime
