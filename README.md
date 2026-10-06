@@ -35,13 +35,27 @@
 
 <h3><code>hasnain@github ~ $ cat stack.txt</code></h3>
 
+**Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,express,python,tailwind" alt="Next.js, React, TypeScript, Node.js, Express, Python, Tailwind" /><br>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,supabase,docker,aws,git" alt="PostgreSQL, MongoDB, Prisma, Supabase, Docker, AWS, Git" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux,html,css,js" alt="React, Next.js, TypeScript, Tailwind, Redux, HTML, CSS, JavaScript" />
+</p>
+
+**Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,php,laravel,graphql,dotnet" alt="Node.js, Express, Python, PHP, Laravel, GraphQL, .NET" />
+</p>
+
+**Databases & Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,prisma,supabase,docker,aws,git,postman" alt="MongoDB, PostgreSQL, MySQL, Prisma, Supabase, Docker, AWS, Git, Postman" />
+</p>
+
+**Mobile**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,flutter,androidstudio" alt="React Native, Flutter, Android Studio" />
 </p>
 
 **AI / LLM:** Claude API · OpenAI API · LangChain · RAG pipelines · pgvector · FAISS · Chroma
-&nbsp;·&nbsp; **Also:** React Native · .NET / C# · PHP / Laravel
 
 <details>
 <summary><b>Experience, education & certifications</b></summary>
